@@ -15,7 +15,7 @@ body {
 }
 
 .header {
-    background: <img src="images/headback.jpg"> no-repeat center center;
+    background: <img src="/Images/headback.jpg"> no-repeat center center;
     background-size: cover;
     height: 700px;
     text-align: center;
